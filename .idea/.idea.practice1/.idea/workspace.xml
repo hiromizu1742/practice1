@@ -11,7 +11,14 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="9f1ff1db-128c-443f-a8ba-b15769f17d5f" name="Changes" comment="">
-      <change beforePath="$PROJECT_DIR$/Assignment solution.sln" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment solution.sln" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment/obj/Debug/net10.0/Assignment.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment/obj/Debug/net10.0/Assignment.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment/obj/Debug/net10.0/Assignment.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment/obj/Debug/net10.0/Assignment.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3/obj/Debug/net10.0/Assignment3.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3/obj/Debug/net10.0/Assignment3.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment3/obj/Debug/net10.0/Assignment3.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment3/obj/Debug/net10.0/Assignment3.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment4/obj/Debug/net10.0/Assignment4.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment4/obj/Debug/net10.0/Assignment4.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Assignment4/obj/Debug/net10.0/Assignment4.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Assignment4/obj/Debug/net10.0/Assignment4.AssemblyInfoInputs.cache" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice/obj/Debug/net10.0/Practice.AssemblyInfo.cs" beforeDir="false" afterPath="$PROJECT_DIR$/Practice/obj/Debug/net10.0/Practice.AssemblyInfo.cs" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Practice/obj/Debug/net10.0/Practice.AssemblyInfoInputs.cache" beforeDir="false" afterPath="$PROJECT_DIR$/Practice/obj/Debug/net10.0/Practice.AssemblyInfoInputs.cache" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,6 +79,7 @@
     &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
     &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
     &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;configurable.group.tools&quot;,
     &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
   },
   &quot;keyToStringList&quot;: {
@@ -173,7 +181,7 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1768428276061</updated>
-      <workItem from="1768428277482" duration="4083000" />
+      <workItem from="1768428277482" duration="4426000" />
     </task>
     <task id="LOCAL-00001" summary="Practice">
       <option name="closed" value="true" />
@@ -199,7 +207,23 @@
       <option name="project" value="LOCAL" />
       <updated>1768430467101</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="assignment 2">
+      <option name="closed" value="true" />
+      <created>1768456630071</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1768456630071</updated>
+    </task>
+    <task id="LOCAL-00005" summary="commit">
+      <option name="closed" value="true" />
+      <created>1768456653441</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1768456653441</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -212,7 +236,9 @@
     <MESSAGE value="Practice" />
     <MESSAGE value="change the name" />
     <MESSAGE value="File name change" />
-    <option name="LAST_COMMIT_MESSAGE" value="File name change" />
+    <MESSAGE value="assignment 2" />
+    <MESSAGE value="commit" />
+    <option name="LAST_COMMIT_MESSAGE" value="commit" />
   </component>
   <component name="XDebuggerManager">
     <breakpoint-manager>
