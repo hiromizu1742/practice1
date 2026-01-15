@@ -1,0 +1,15 @@
+/Users/hirohitomizuno/RiderProjects/IS413/practice1/Practice/bin/Debug/net10.0/Practice
+/Users/hirohitomizuno/RiderProjects/IS413/practice1/Practice/bin/Debug/net10.0/Practice.deps.json
+/Users/hirohitomizuno/RiderProjects/IS413/practice1/Practice/bin/Debug/net10.0/Practice.runtimeconfig.json
+/Users/hirohitomizuno/RiderProjects/IS413/practice1/Practice/bin/Debug/net10.0/Practice.dll
+/Users/hirohitomizuno/RiderProjects/IS413/practice1/Practice/bin/Debug/net10.0/Practice.pdb
+/Users/hirohitomizuno/RiderProjects/IS413/practice1/Practice/obj/Debug/net10.0/Practice.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hirohitomizuno/RiderProjects/IS413/practice1/Practice/obj/Debug/net10.0/Practice.AssemblyInfoInputs.cache
+/Users/hirohitomizuno/RiderProjects/IS413/practice1/Practice/obj/Debug/net10.0/Practice.AssemblyInfo.cs
+/Users/hirohitomizuno/RiderProjects/IS413/practice1/Practice/obj/Debug/net10.0/Practice.csproj.CoreCompileInputs.cache
+/Users/hirohitomizuno/RiderProjects/IS413/practice1/Practice/obj/Debug/net10.0/Practice.sourcelink.json
+/Users/hirohitomizuno/RiderProjects/IS413/practice1/Practice/obj/Debug/net10.0/Practice.dll
+/Users/hirohitomizuno/RiderProjects/IS413/practice1/Practice/obj/Debug/net10.0/refint/Practice.dll
+/Users/hirohitomizuno/RiderProjects/IS413/practice1/Practice/obj/Debug/net10.0/Practice.pdb
+/Users/hirohitomizuno/RiderProjects/IS413/practice1/Practice/obj/Debug/net10.0/Practice.genruntimeconfig.cache
+/Users/hirohitomizuno/RiderProjects/IS413/practice1/Practice/obj/Debug/net10.0/ref/Practice.dll
