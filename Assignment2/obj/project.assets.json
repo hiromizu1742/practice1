@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/hirohitomizuno/RiderProjects/IS413/practice1/Assignment/Assignment.csproj",
-      "projectName": "Assignment",
-      "projectPath": "/Users/hirohitomizuno/RiderProjects/IS413/practice1/Assignment/Assignment.csproj",
+      "projectUniqueName": "/Users/hirohitomizuno/RiderProjects/IS413/practice1/Assignment2/Assignment2.csproj",
+      "projectName": "Assignment2",
+      "projectPath": "/Users/hirohitomizuno/RiderProjects/IS413/practice1/Assignment2/Assignment2.csproj",
       "packagesPath": "/Users/hirohitomizuno/.nuget/packages/",
-      "outputPath": "/Users/hirohitomizuno/RiderProjects/IS413/practice1/Assignment/obj/",
+      "outputPath": "/Users/hirohitomizuno/RiderProjects/IS413/practice1/Assignment2/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/hirohitomizuno/.nuget/NuGet/NuGet.Config"
