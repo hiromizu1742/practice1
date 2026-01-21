@@ -1,0 +1,15 @@
+/Users/hirohitomizuno/RiderProjects/IS413/practice1/Assignment2/bin/Debug/net10.0/Assignment2
+/Users/hirohitomizuno/RiderProjects/IS413/practice1/Assignment2/bin/Debug/net10.0/Assignment2.deps.json
+/Users/hirohitomizuno/RiderProjects/IS413/practice1/Assignment2/bin/Debug/net10.0/Assignment2.runtimeconfig.json
+/Users/hirohitomizuno/RiderProjects/IS413/practice1/Assignment2/bin/Debug/net10.0/Assignment2.dll
+/Users/hirohitomizuno/RiderProjects/IS413/practice1/Assignment2/bin/Debug/net10.0/Assignment2.pdb
+/Users/hirohitomizuno/RiderProjects/IS413/practice1/Assignment2/obj/Debug/net10.0/Assignment2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/hirohitomizuno/RiderProjects/IS413/practice1/Assignment2/obj/Debug/net10.0/Assignment2.AssemblyInfoInputs.cache
+/Users/hirohitomizuno/RiderProjects/IS413/practice1/Assignment2/obj/Debug/net10.0/Assignment2.AssemblyInfo.cs
+/Users/hirohitomizuno/RiderProjects/IS413/practice1/Assignment2/obj/Debug/net10.0/Assignment2.csproj.CoreCompileInputs.cache
+/Users/hirohitomizuno/RiderProjects/IS413/practice1/Assignment2/obj/Debug/net10.0/Assignment2.sourcelink.json
+/Users/hirohitomizuno/RiderProjects/IS413/practice1/Assignment2/obj/Debug/net10.0/Assignment2.dll
+/Users/hirohitomizuno/RiderProjects/IS413/practice1/Assignment2/obj/Debug/net10.0/refint/Assignment2.dll
+/Users/hirohitomizuno/RiderProjects/IS413/practice1/Assignment2/obj/Debug/net10.0/Assignment2.pdb
+/Users/hirohitomizuno/RiderProjects/IS413/practice1/Assignment2/obj/Debug/net10.0/Assignment2.genruntimeconfig.cache
+/Users/hirohitomizuno/RiderProjects/IS413/practice1/Assignment2/obj/Debug/net10.0/ref/Assignment2.dll
