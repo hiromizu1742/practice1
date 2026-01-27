@@ -3,7 +3,7 @@
 using foodsystem;
 
 foodtrack ft = new foodtrack();
-
+//asking to user until they typed the exit.
 do {
     
 string order = "";
@@ -11,6 +11,8 @@ string quote = "";
 
 Console.WriteLine("How can I help you today?: (list/Add/Delete/Exit)");
 quote = Console.ReadLine();
+
+//All values will be lower case.
 order = quote.ToLower();
 
 
@@ -50,7 +52,7 @@ order = quote.ToLower();
         Console.WriteLine(ok ? $"{item} added successfully" : "Quantity must be positive.");
         
     }
-
+    
     if (order == "delete")
     {
         
@@ -68,7 +70,7 @@ order = quote.ToLower();
         Console.WriteLine("Thank you for using this app! ");
         break;
     }
-    
+    //if none of them are typed, ask the user to type correct command
     if (order != "list" && order != "add" && order != "delete" && order != "exit")
     {
         Console.WriteLine("Invalid command. Please type: list / add / delete / exit");
